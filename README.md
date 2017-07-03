@@ -15,3 +15,9 @@ Se trabajó los siguientes temas:
 Persistencia de datos, Vistas de diseño alternativas, Recursos alternativos en Android, etc.
 
 Sientete libre de usar el código fuente, es con fines educativos.
+
+-----------------------------------------------------------
+
+Video demostrativo de la Aplicación:
+
+https://youtu.be/cEhS7IVetks

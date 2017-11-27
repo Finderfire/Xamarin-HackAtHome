@@ -20,4 +20,4 @@ Sientete libre de usar el código fuente, es con fines educativos.
 
 Video demostrativo de la Aplicación:
 
-https://youtu.be/cEhS7IVetks
+Muy pronto...
